@@ -6,3 +6,5 @@ console.log(a,totalCounting);
 function save(a){
     console.log(`your desired variable is ${a}`);
 }
+
+let m= 'hasan is working';
