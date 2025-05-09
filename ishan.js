@@ -9,3 +9,5 @@ function save(a){
 
 
 let m ="ishan Hasan";
+let data1 ='this is data one';
+
