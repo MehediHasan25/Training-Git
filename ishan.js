@@ -1,4 +1,4 @@
-let a = 'Tommorow is our office';
+let a = 'calculation offerd';
 let b = 20; 
 let c =30;
 let totalCounting = b+c;
