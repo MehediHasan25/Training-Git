@@ -1,4 +1,4 @@
-let a = 'MIS TEAM';
+let a = 'Team is working';
 let b = 20; 
 let c =30;
 let totalCounting = b+c;
