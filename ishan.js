@@ -1,5 +1,5 @@
-let a = 'calculation offerd';
-let b = 20; 
+let a = 'working with me';
+let b = 'DATA IS CHECKING'; 
 let c =30;
 let totalCounting = b+c;
 console.log(a,totalCounting);
