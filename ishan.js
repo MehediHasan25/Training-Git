@@ -1,3 +1,3 @@
-let a = 'Git Training';
+let a = 'Git Training for us';
 
 console.log(a);
