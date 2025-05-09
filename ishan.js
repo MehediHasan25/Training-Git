@@ -1,3 +1,5 @@
 let a = 'Git Training';
-
-console.log(a);
+let b = 20; 
+let c =30;
+let total = b+c;
+console.log(a,total);
