@@ -1,9 +1,13 @@
-let designation =['Executive,sr.Executive,Manager,Assistant Manager'];
-let addition = (a,b)=> a+b;
-let attendance = addition(5,4);
-console.log(attendance);
+let designation =['Executive,sr.Executive,Manager,Assistant Manager','Deputy Manger'];
+let substraction = (a,b)=> a-b;
+let multiple =(c,d)=> c*d;
+let count = substraction(5,4);
+let count2 = multiple(24,2);
 
+console.log(count,count2);
 
-console.log (designation);
+for(let i =0; i< designation.length; i++){
+    console.log(designation[i]);
+}
 
 
